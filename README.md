@@ -17,7 +17,7 @@ MyAnimeList Text Enhancer is a Tampermonkey script that enhances the readability
 2. **Install MyAnimeList Text Enhancer**:
    - Open Tampermonkey dashboard.
    - Click on the `+` icon to create a new script.
-   - Go [here](https://raw.githubusercontent.com/Space-00/MyAnimeList-Text-Enhancer/main/MyAnimeList%20Text%20Enhancer.js) and the code (copy everything)
+   - Go [here](https://raw.githubusercontent.com/Space-00/MyAnimeList-Text-Enhancer/main/MyAnimeList%20Text%20Enhancer.js) and copy the code (copy everything)
    - Go back to that Tampermonkey new script tab and delete whatever is wrriten then copy and paste the script code that you've copied.
    - Save the script.
 
