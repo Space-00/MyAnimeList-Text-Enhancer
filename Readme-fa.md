@@ -17,7 +17,7 @@
 2. **نصب MyAnimeList Text Enhancer**:
    - داشبورد Tampermonkey رو باز کنین.
    - روی ایکون `+` کلیک کنید تا یک اسکریپت جدید بسازین.
-   - [اینجا](https://www.tampermonkey.net/) رو کلیک کنین و کد رو کپی کنین
+   - [اینجا]([https://www.tampermonkey.net/](https://raw.githubusercontent.com/Space-00/MyAnimeList-Text-Enhancer/main/MyAnimeList%20Text%20Enhancer.js)) رو کلیک کنین و کد رو کپی کنین
    - حالا برگردین بخ خم.ن صفحه اسکریپت تو Tampermonkey و هر چه که نوشته رو پاک کنین و کدی که کپی کردین رو جایگذاری کنین
    - اسکریپت رو ذخیره کنین.
 
