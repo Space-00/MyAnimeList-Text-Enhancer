@@ -35,7 +35,7 @@
         } else if (containsEnglish(node.nodeValue)) {
             const span = document.createElement('span');
             span.className = 'enlarged-bold-english';
-            span.style.fontSize = '1.2em'; // Font size for English text
+            span.style.fontSize = '1.1em'; // Font size for English text
             span.style.fontWeight = 'bold';
             span.textContent = node.nodeValue;
             node.parentNode.replaceChild(span, node);
