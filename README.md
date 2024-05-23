@@ -48,4 +48,4 @@ ________________________________________________________________________________
 
 ## Contributing
 
-If you encounter any issues or have suggestions for improvements, feel free to open an issue or submit a pull request on the GitHub repository.
+If you encounter any issues or have suggestions for improvements, feel free to open an issue or submit a pull request.
