@@ -1,5 +1,7 @@
 # MyAnimeList Text Enhancer
 
+[If you don't know Persian click here](https://github.com/Space-00/MyAnimeList-Text-Enhancer/blob/main/README.md)
+
 سلام به همه فارسی زبونا, از اون جایی که همه ی شما اوتاکو ها می دونیین سایز فونت توی سایت مای انیمه لست افتضاحه, واسه همین من یه اسکریپت ساختم که برای همیشه از این مشکل خلاص بشیم
 
 ## ویژگی‌ها
