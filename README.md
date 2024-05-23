@@ -33,7 +33,7 @@ ________________________________________________________________________________
 To change the font size for English text, modify the following line in the script:
 
 ```javascript
-span.style.fontSize = '1.2em'; // Font size for English text
+span.style.fontSize = '1.1em'; // Font size for English text
 ```
 
 And to change the font size for Persian text, modify the following line in the script:
