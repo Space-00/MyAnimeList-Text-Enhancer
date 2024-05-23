@@ -1,6 +1,7 @@
 // ==UserScript==
 // @name         MyAnimeList Text Enhancer
 // @namespace    http://tampermonkey.net/
+// @icon         https://play-lh.googleusercontent.com/zVwzSU7ozKU0x78V7zYWDw2XFjgGsBBJA_qIJQXAFnS1R3VemFbpdaV9Bm3zOTTHvXw
 // @version      1.3
 // @description  Enlarges and bolds Persian and English texts on webpages with different font sizes for each language
 // @author       Reza
