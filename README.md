@@ -1,6 +1,6 @@
 # MyAnimeList Text Enhancer
 
-[اگه انگلیسی بلد نیستین اینجا رو کلیک کنین](https://chrome.google.com/webstore/detail/dhdgffkkebhmkfjojejmpbldmpobfkfo)
+[اگه انگلیسی بلد نیستین اینجا رو کلیک کنین](https://github.com/Space-00/MyAnimeList-Text-Enhancer/blob/main/Readme-fa.md)
 
 MyAnimeList Text Enhancer is a Tampermonkey script that enhances the readability of text on MyAnimeList by enlarging and bolding Persian and English text. Enjoy a more visually appealing browsing experience with customized font sizes for different languages.
 
